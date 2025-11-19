@@ -16,7 +16,7 @@ Total deals: 307
 		- [Time, Distraction, Focus (5)](#time-distraction-focus)
 		- [Miscellaneous Productivity Apps (2)](#miscellaneous-productivity-apps)
 	- [📱 Productivity Mobile Apps (6)](#-productivity-mobile-apps)
-	- [🛠️ Productivity Tools & Services (6)](#️-productivity-tools--services
+	- [🛠️ Productivity Tools & Services (6)](#️-productivity-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (15)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (28)](#-ai-productivity--learning-tools)
